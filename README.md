@@ -1,8 +1,4 @@
-Here’s a brief description for your GitHub README, tailored for your real-time tracking app. This description includes an overview, features, setup instructions, and a link to your live Vercel deployment.
-
----
-
-# Real-Time Location Tracking App
+📍 Real-Time Location Tracking App
 
 A real-time location tracking application built using Node.js, Express, Socket.io, and Leaflet.js. 
 This app tracks and displays the location of connected users on a map, making it ideal for use cases such as asset tracking, fleet management, or social location sharing.
